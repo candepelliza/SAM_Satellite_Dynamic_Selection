@@ -13,3 +13,4 @@ Given that the mask generation is a computer intensive task, it is suggestedd to
 
 In this notebook, the usecase is a vineyard cropland area in Mendoza city, Argentina, which works really well given the scale related to the image resolution. However it can be easily applied to any place by just searchign for it by its coordinates and selecting it in the map with the box tool.
 
+!(https://github.com/candepelliza/SAM_Satellite_Dynamic_Selection/blob/main/Segmentation.png)
